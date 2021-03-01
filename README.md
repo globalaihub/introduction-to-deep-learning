@@ -95,6 +95,3 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 	+ Text Classification using RNN
 
-
-## Certification Example
-![Certificate](https://github.com/globalaihub/introduction-to-machine-learning/blob/main/ML_Certificate.png)

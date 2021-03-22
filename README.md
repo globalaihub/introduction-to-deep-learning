@@ -2,9 +2,9 @@
   <img src="logo.png">
 </div>
 
-# Welcome to our Introduction to AI and Deep Learning Course Repo in collaboration with LeadingIndia.ai!
+# Welcome to our Introduction to AI and Deep Learning Course Repo!
 
-You can find more information about our Introduction to AI and Deep Learning Course in collaboration with LeadingIndia.ai by visiting the [Course Website.](https://globalaihub.com/event/introduction-to-ai-and-deep-learning/)
+You can find more information about our Introduction to AI and Deep Learning Course by visiting the [Course Website.](https://globalaihub.com/event/introduction-to-ai-and-deep-learning/)
 
 To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
 

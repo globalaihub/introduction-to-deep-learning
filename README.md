@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+  <img src="logo.png" height="200px">
 </div>
 
 # Welcome to our Introduction to AI and Deep Learning Course Repo!
